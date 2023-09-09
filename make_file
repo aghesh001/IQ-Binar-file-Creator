@@ -1,4 +1,5 @@
-CC = gcc             # the compiler: gcc for C program, define as g++ for C++
+CC = gcc                        # the compiler: gcc for C program, define as g++ for C++
+SOURCE = iq_binary_creator.c    # Source file
 TARGET = iq_binary_creator      # the build target executable:
 
 all:
